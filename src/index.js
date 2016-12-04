@@ -4,7 +4,7 @@ import styles from './css/app.css'
 
 class App extends React.Component {
   render() {
-    return <div className={styles.hogeHoge}>hello!!!!!ふぅ～～～〜</div>;
+    return <div className={styles.hogeHoge}>hello!!</div>;
   }
 }
 

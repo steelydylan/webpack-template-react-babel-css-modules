@@ -4,4 +4,4 @@
 
 `$ yarn install`
 
-`$ webpack`
+`$ npm run start`
